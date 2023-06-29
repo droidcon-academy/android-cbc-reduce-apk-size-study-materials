@@ -1,6 +1,3 @@
 <resources>
     <string name="app_name">BMICalculator</string>
-    <string name="weight">Weight</string>
-    <string name="gender_male">MALE</string>
-    <string name="gender_female">FEMALE</string>
 </resources>
